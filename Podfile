@@ -9,6 +9,6 @@ target 'oDocPatientSdkiOS' do
 
   # Pods for oDocPatientSdkiOS
 
-pod 'oDocPatientSdk', '~> 0.9.1'
+pod 'oDocPatientSdk', '~> 0.9.8'
 
 end
